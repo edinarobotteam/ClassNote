@@ -5,3 +5,5 @@ https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html
 
 3. Homework
 Write a code to display your First Initial on the screen!
+
+Input a numbers x >10, output the x! (x!=1+2+3+..x)
