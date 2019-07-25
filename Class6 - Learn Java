@@ -1,0 +1,18 @@
+1. How motor works
+https://www.youtube.com/watch?v=AQqyGNOP_3o
+
+2. Learn Java
+From Break and continue -
+
+3. Homework
+using java method to generate method called  "findStringLength(string s)"
+the method needs to count how many charters in this string.
+
+generate another method called "sortArrayByLength( String[] arr )" this method will sort the array based on the length of each item.
+
+
+For example, we have an array  String [] students={""Johnathon","Richard", "Maggie","Raya}
+
+through these two methods, we will get a new array based on the length of students' name
+String [] newstudents = {"Raya", "Maggie", "Richard","Johnathon"}
+
