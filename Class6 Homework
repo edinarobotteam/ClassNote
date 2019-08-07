@@ -1,0 +1,37 @@
+1.Java installation
+https://www.w3schools.com/java/java_getstarted.asp
+
+2. How to set up environment variable
+https://introcs.cs.princeton.edu/java/15inout/windows-cmd.html
+
+3. Desktop Github installation
+https://desktop.github.com/
+
+4. Write your code in notepad and name it to be XXX.java
+follow the example in the following page
+https://www.w3schools.com/java/java_getstarted.asp
+
+Save your file to github javacoding folder C:\Users\"your computer login name"\Documents\GitHub\JavaCoding
+type "cmd" in the windows search box
+go to that folder using command line: 
+
+cd "foldername"  -- this will lead you to the folder
+for example: cd  Users
+
+dir  -- this will list all the files and subfolders in this directory
+
+
+5. Finish homework
+  a. Write a code to display your name and school on the screen!
+    For example:
+    Maggie
+    Valley View Middle School
+
+  b.Initial an int number 10, output the 10! (x!=1+2+3+..x) using for loop
+
+6. Upload your homework to github javacoding folder
+https://github.com/edinarobotteam/JavaCoding
+
+7. If you have any trouble, we might need to setup a time to do the lab.
+
+
