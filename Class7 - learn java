@@ -25,6 +25,14 @@ https://programming.guide/java/list-of-java-exceptions.html
   
   Pay attention, each time when you commit the changes, you need to pull the latest from github and check the difference, do the merge before commit.
   
+Homework tip:
+1. Using GitHub desktop pull merge.java to your local folder.
+2. Open the merge.java file, insert your code into the file.
+3. Build and run your code to make sure it works.
+4. Get latest merge.java from GitHub desktop again to check if there is conflict. If other people checks in code while you are working on your code, you need to compare the code from GitHub with your code to solve the conflict.
+5. Build and run the code again to make sure it works.
+6. Push you code to GitHub using GitHub desktop
+
  5. Summer Java I class end.
     Will start Java II/ mobil app class next week.
     1. Provide class time. At least 2 hours meet. one hour class, one hour lab
